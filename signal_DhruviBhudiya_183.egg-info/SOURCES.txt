@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+signal_DhruviBhudiya_183.egg-info/PKG-INFO
+signal_DhruviBhudiya_183.egg-info/SOURCES.txt
+signal_DhruviBhudiya_183.egg-info/dependency_links.txt
+signal_DhruviBhudiya_183.egg-info/requires.txt
+signal_DhruviBhudiya_183.egg-info/top_level.txt
